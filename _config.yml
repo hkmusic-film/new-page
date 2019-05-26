@@ -20,7 +20,7 @@
 locale: en-US
 title: "HK Music n Film"
 description: "Testing Simple Theme"
-baseurl: "/so-simple-theme"
+baseurl: "/new-page"
 url: "hkmusic-film.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
