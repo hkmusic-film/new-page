@@ -14,3 +14,4 @@ last_modified_at: 2019-07-19T19:20:00+07:00
 Link sẽ được cập nhật thường xuyên
 
 - 1 blog trên sina có link nhạc + phim của nhiều nghệ sĩ: [blog_sina_u5932453061](https://github.com/hkmusic-film/site-data/blob/master/blog_sina_u5932453061.xlsx) (file xlsx)
+- Trang web down nhạc từ nhiều link pan baidu, đa số là nhạc chất lượng cao, tuy nhiên cần lưu ý có thể 1 số file mp3 convert từ wav sẽ bị lỗi (điều này mình không biết tại sao): [sq688](https://www.sq688.com/detail/547.html)
