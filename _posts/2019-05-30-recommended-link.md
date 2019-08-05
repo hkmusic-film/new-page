@@ -7,7 +7,7 @@ tags:
   - link
   - music
   - film
-last_modified_at: 2019-05-30T15:30:00+07:00
+last_modified_at: 2019-08-05T16:20:00+07:00
 ---
 
 **BIG UPD 30/05/2019:** 
@@ -313,7 +313,7 @@ Các file nhạc đều là file wav, flac, ape, chất lượng khỏi bàn. M�
 
 ### Hacken Lý Khắc Cần (UPD 29/7/2018)
 
-- List 106CD nhạc (Link nguồn đã xoá bài):
+- List 106CD nhạc (Link nguồn đã xoá bài, link reup tại [đây](https://www.sq688.com/detail/547.html)):
 
 <table>
     <tr>
