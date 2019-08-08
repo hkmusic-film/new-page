@@ -1,13 +1,13 @@
 ---
-title: "Tổng hợp những link hữu ích"
-excerpt: ""
+title: Tổng hợp những link hữu ích
 categories:
   - link
 tags:
   - link
   - music
   - film
-last_modified_at: 2019-08-05T16:20:00+07:00
+last_modified_at: 2019-08-08T16:10:00.000Z
+published: true
 ---
 
 **BIG UPD 30/05/2019:** 
@@ -72,7 +72,7 @@ Các file nhạc đều là file wav, flac, ape, chất lượng khỏi bàn. M�
 
 > List những album phát hành lại có chất lượng âm thanh tốt hơn (sẽ được cập nhật liên tục):
 >
-> - 1982
+> - 傾訴 (1982) -> 傾訴陳百強 (2013)
 
 ### Leslie Trương Quốc Vinh
 
