@@ -7,8 +7,12 @@ tags:
   - link
   - music
   - film
-last_modified_at: 2019-05-30T15:30:00+07:00
+last_modified_at: 2020-01-15T16:00:00+07:00
 ---
+
+**BIG UPD 15/01/2020:** 
+
+- Tách một số mục sang post riêng.
 
 **BIG UPD 30/05/2019:** 
 
@@ -36,9 +40,9 @@ Các file nhạc đều là file wav, flac, ape, chất lượng khỏi bàn. M�
 
 - collection: các album phát hành lại, các album tuyển tập, thường phát hành sau một thời gian rất lâu.
 
-	- re-publish: các album phát hành lại.
+    - re-publish: các album phát hành lại.
 
-	- other: các album tuyển tập.
+    - other: các album tuyển tập.
 
 - studio: các album phòng thu.
 
@@ -56,17 +60,17 @@ Các file nhạc đều là file wav, flac, ape, chất lượng khỏi bàn. M�
 
 - Link GG Drive (đầy đủ):
 
-	- Folder `studio` (tiếng Nhật và tiếng Phổ thông) + folder `concert`: [Link](https://drive.google.com/open?id=1R8wpoORzgc2sY_tNcbpibZnREnGVhaiL)
+    - Folder `studio` (tiếng Nhật và tiếng Phổ thông) + folder `concert`: [Link](https://drive.google.com/open?id=1R8wpoORzgc2sY_tNcbpibZnREnGVhaiL)
 
-	- Folder `studio` (tiếng Quảng): [Link](https://drive.google.com/open?id=1hQ8AfBfKGkKc4yc27GgSHSSLT6tKyc_S)
+    - Folder `studio` (tiếng Quảng): [Link](https://drive.google.com/open?id=1hQ8AfBfKGkKc4yc27GgSHSSLT6tKyc_S)
 
 ### Danny Trần Bách Cường
 
 - Album studio:
 
-	- GG Drive: [Link](https://drive.google.com/open?id=1mMnAGebX18NY68VDs_jT9ooFihdLRyZW)
+    - GG Drive: [Link](https://drive.google.com/open?id=1mMnAGebX18NY68VDs_jT9ooFihdLRyZW)
 
-	- mega.nz: [Link](https://mega.nz/#F!x9RxzSIb!nPd4fC-XH03hajz22L1iPg)
+    - mega.nz: [Link](https://mega.nz/#F!x9RxzSIb!nPd4fC-XH03hajz22L1iPg)
 
 - Concert: [Link](https://pan.baidu.com/share/link?shareid=619308&uk=3439516718)
 

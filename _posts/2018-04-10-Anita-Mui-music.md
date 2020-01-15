@@ -1,6 +1,10 @@
 ---
 title: List nhạc của Anita Mai Diễm Phương
-tags: [music, link, Anita Mui]
+tags:
+  - music
+  - link
+  - Anita Mui
+published: true
 ---
 ## Link
 
